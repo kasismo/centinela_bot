@@ -1,1 +1,0 @@
-# centinela_bot
